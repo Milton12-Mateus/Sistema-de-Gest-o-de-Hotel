@@ -1,2 +1,12 @@
-# Sistema-de-Gest-o-de-Hotel
-Sistema de gestão de hotel desenvolvido em ASP.NET Core MVC, destinado a administrar hóspedes, quartos, reservas e pagamentos. O projeto utiliza uma base de dados relacional e segue boas práticas de desenvolvimento, incluindo a modelação do sistema com diagramas UML, o sistema visa automatizar e otimizar os processos administrativos de um hotel.
+# 👨‍💻 Milton Mateus
+
+Sou estudante de informática com foco em desenvolvimento de sistemas web.
+
+## 📂 Projetos
+- 🏨 Room Haven – Sistema de Gestão de Hotel (ASP.NET Core MVC)
+- 📊 Sistema de Reservas
+- 🗄 Modelação de Bases de Dados (DER, MER)
+
+## 🛠 Tecnologias
+ASP.NET Core | SQL Server | C# | UML | GitHub
+
